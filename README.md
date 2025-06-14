@@ -38,6 +38,7 @@ Follow these steps to get the project up and running on your local machine.
 ```bash
 git clone <your-repository-url>
 cd <your-project-directory> # e.g., cd chatbot_06
+```
 
 ![Chatbot Output](images/chatss.png)
-```
+
